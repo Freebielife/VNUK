@@ -1,0 +1,38 @@
+....holders SAVED
+burns UNAVAILABLE OSError offline
+zeroBurns SAVED
+trades SAVED
+rates SAVED
+pools SAVED
+identity SAVED
+badges SAVED
+domains SAVED
+fragmentNumbers SAVED
+Refresh finished; incomplete: ['burns']
+.holders SAVED
+burns SAVED
+zeroBurns SAVED
+trades SAVED
+rates SAVED
+pools SAVED
+identity SAVED
+badges SAVED
+domains SAVED
+fragmentNumbers SAVED
+Refresh finished; incomplete: []
+....Service registry refresh unavailable: OSError
+....History page saved: synthetic-pool rows 1 coverage since 1999395200 complete False
+.History page saved: synthetic-pool rows 0 coverage since 1968377600 complete True
+History page saved: synthetic-pool rows 0 coverage since 1968377600 complete True
+.History page saved: synthetic-pool rows 1 coverage since 1999136000 complete False
+History page unavailable: synthetic-pool OSError
+History page saved: synthetic-pool rows 0 coverage since 1968377600 complete True
+...History page unavailable: synthetic-pool ValueError
+.History page unavailable: synthetic-pool ValueError
+.History page saved: synthetic-pool rows 1 coverage since 1999136000 complete False
+History page saved: synthetic-pool rows 1 coverage since 1998272000 complete False
+..
+----------------------------------------------------------------------
+Ran 22 tests in 0.015s
+
+OK

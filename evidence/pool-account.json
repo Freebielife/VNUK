@@ -1,0 +1,1 @@
+{"address":"0:20ba3a18394c785ace71f168552c88b8ffbf656d87a7bcf6c3cf7b588f3de3e2","balance":217541950,"last_activity":1795521912,"status":"active","interfaces":["dedust_pool","jetton_master"],"get_methods":["get_assets","get_jetton_data","get_reserves","is_stable"],"is_wallet":false}

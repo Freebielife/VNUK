@@ -1,0 +1,1 @@
+{"success":true,"exit_code":0,"stack":[{"type":"cell","cell":"b5ee9c72010101010024000043100a9ea16debd200cf46d96c5e643a7432d7ba30f4d4268b99ac23487961e7865398"}],"decoded":{"asset":{"sum_type":"Jetton","native":{},"jetton":{"workchain_id":0,"address":"a9ea16debd200cf46d96c5e643a7432d7ba30f4d4268b99ac23487961e786539"},"extra_currency":{"currency_id":0}}}}

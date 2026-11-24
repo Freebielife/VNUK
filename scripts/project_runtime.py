@@ -6,7 +6,7 @@ import os
 import re
 from pathlib import Path
 
-VERSION = "1.3.0"
+VERSION = "1.2.0"
 DEFAULT_MAX_HTML_BYTES = 2_500_000
 
 

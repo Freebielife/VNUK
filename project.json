@@ -1,0 +1,95 @@
+{
+  "slug": "vnuk",
+  "name": "VNUK",
+  "symbol": "VNUK",
+  "master": "EQCp6hbevSAM9G2WxeZDp0Mte6MPTUJouZrCNIeWHnhlOZZA",
+  "decimals": 9,
+  "github": {
+    "owner": "Freebielife",
+    "repo": "VNUK"
+  },
+  "pools": [
+    {
+      "address": "EQAgujoYOUx4Ws5x8WhVLIi4_79lbYenvPbDz3tYjz3j4gln",
+      "dex": "dedust",
+      "quote": "TON",
+      "fee": "0.25%",
+      "evidence": "https://tonapi.io/v2/blockchain/accounts/0:20ba3a18394c785ace71f168552c88b8ffbf656d87a7bcf6c3cf7b588f3de3e2/methods/get_assets"
+    }
+  ],
+  "primary_pool": "EQAgujoYOUx4Ws5x8WhVLIi4_79lbYenvPbDz3tYjz3j4gln",
+  "logo_file": "web/project-logo.webp",
+  "logo_source": "https://raw.githubusercontent.com/mR-vnukICH/art/main/logo/logo.png",
+  "logo_origin": "token_metadata",
+  "flag_file": "web/project-flag.webp",
+  "links": {
+    "telegram": "https://t.me/VNUKonTON",
+    "website": "https://mrvnukich.life/"
+  },
+  "services": {
+    "UQD4uGNdB4a3f52mYOZf0x1nCmdd1DAvrLppL0a1cetTYCQx": "Binance",
+    "EQDPfqI17W9lF-3OmAJu92GOn22BoTMdTmW6cY4s0V-ArRRY": "Bybit",
+    "0:0000000000000000000000000000000000000000000000000000000000000000": "Zero address"
+  },
+  "badges": [],
+  "service_provenance": {
+    "0:f8b8635d0786b77f9da660e65fd31d670a675dd4302facba692f46b571eb5360": {
+      "category": "custody",
+      "source": "User-provided attribution, 2026-11-22; ownership not independently verified"
+    },
+    "0:cf7ea235ed6f6517edce98026ef7618e9f6d81a1331d4e65ba718e2cd15f80ad": {
+      "category": "custody",
+      "source": "User-provided attribution, 2026-11-22; ownership not independently verified"
+    },
+    "0:0000000000000000000000000000000000000000000000000000000000000000": {
+      "category": "zero_address",
+      "source": "https://tonapi.io/v2/jettons/EQCp6hbevSAM9G2WxeZDp0Mte6MPTUJouZrCNIeWHnhlOZZA"
+    }
+  },
+  "flag_source": "User-provided project emoji",
+  "template_repository": "Freebielife/TON-Observatory-Template",
+  "engine_version": "1.2.0",
+  "max_html_bytes": 2500000,
+  "ui": {
+    "holders_initial": 10,
+    "holders_expanded": 20
+  },
+  "methodology": {
+    "valuation": "last observed swap in primary_pool times CURRENT total supply; not circulating market cap",
+    "primary_pool": "EQAgujoYOUx4Ws5x8WhVLIi4_79lbYenvPbDz3tYjz3j4gln",
+    "sellers": "sum of successful supported native TON swap sales; service roles excluded",
+    "holders": "balances excluding known services and identified contracts; unclassified accounts may remain until verified",
+    "burns": "accepted burn notifications and zero-address transfers shown as distinct evidence",
+    "usd": "historical TON/USD rate from CoinGecko",
+    "history": "incremental confirmed swaps; missing intervals remain partial"
+  },
+  "branding": {
+    "hero": {
+      "origin": "token_metadata",
+      "source": "https://raw.githubusercontent.com/mR-vnukICH/art/main/logo/logo.png",
+      "file": "web/project-logo.webp"
+    },
+    "sectionFlag": {
+      "source": "User-provided project emoji",
+      "catalogueKey": null,
+      "emoji": null,
+      "file": "web/project-flag.webp"
+    },
+    "channel": "https://t.me/VNUKonTON"
+  },
+  "dedustEvidence": {
+    "poolAssets": "https://tonapi.io/v2/blockchain/accounts/0:20ba3a18394c785ace71f168552c88b8ffbf656d87a7bcf6c3cf7b588f3de3e2/methods/get_assets",
+    "nativeVault": "0:dae153a74d894bbc32748198cd626e4f5df4a69ad2fa56ce80fc2644b5708d20",
+    "jettonVault": "0:b08a96aeeba5a5a04770b1d3b2900b1a6419cc7e9a6c452bc927405c16edb5d9",
+    "parser": "dedust_native.py; paired successful direct calls, no routed swaps"
+  },
+  "project_description": {
+    "text": "В метаданных этого контракта проект описывает VNUK как инвестиционный reward-токен. Обещания доходности и формулировка «great potential» независимо не подтверждены. Обсерватория показывает доступные операции, держателей и оценку капитализации VNUK в сети TON.",
+    "origin": "token_metadata",
+    "sources": [
+      "https://tonapi.io/v2/jettons/EQCp6hbevSAM9G2WxeZDp0Mte6MPTUJouZrCNIeWHnhlOZZA",
+      "https://mrvnukich.life/"
+    ],
+    "checked_at": "2026-11-24"
+  }
+}

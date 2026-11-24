@@ -1,0 +1,31 @@
+[
+  {
+    "url": "https://mrvnukich.life/",
+    "status": 200,
+    "final": "https://mrvnukich.life/"
+  },
+  {
+    "url": "https://t.me/VNUKonTON",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://gram.org/jetton/EQCp6hbevSAM9G2WxeZDp0Mte6MPTUJouZrCNIeWHnhlOZZA",
+    "status": 200,
+    "final": "https://gram.org/jetton/EQCp6hbevSAM9G2WxeZDp0Mte6MPTUJouZrCNIeWHnhlOZZA"
+  },
+  {
+    "url": "https://gram.org/tx/1ffabe4b629dc68c352941f0c0a0cf56e609d785bda8f5bca505585a8923ebb2",
+    "status": 200,
+    "final": "https://gram.org/tx/1ffabe4b629dc68c352941f0c0a0cf56e609d785bda8f5bca505585a8923ebb2"
+  },
+  {
+    "url": "https://dedust.io/pools/EQAgujoYOUx4Ws5x8WhVLIi4_79lbYenvPbDz3tYjz3j4gln",
+    "status": 200,
+    "final": "https://dedust.io/pools/EQAgujoYOUx4Ws5x8WhVLIi4_79lbYenvPbDz3tYjz3j4gln"
+  },
+  {
+    "url": "https://www.geckoterminal.com/ton/pools/EQAgujoYOUx4Ws5x8WhVLIi4_79lbYenvPbDz3tYjz3j4gln",
+    "status": 200,
+    "final": "https://www.geckoterminal.com/ton/pools/EQAgujoYOUx4Ws5x8WhVLIi4_79lbYenvPbDz3tYjz3j4gln"
+  }
+]

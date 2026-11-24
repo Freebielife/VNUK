@@ -1,0 +1,23 @@
+✔ fewer tokens per TON raises valuation; baseline uses the last earlier trade (1.383788ms)
+✔ missing supply does not fabricate a market cap (0.62452ms)
+✔ same bucket retains a spike followed by a return to the initial level (0.202308ms)
+✔ no recent trades carries last observed value and reports zero new trades (0.143752ms)
+✔ incomplete history is marked partial and invalid/future rows are excluded (0.178443ms)
+✔ historical estimate deliberately uses the supplied current total supply (0.253974ms)
+✔ USD uses the applicable historical rate and filters other pool prices (0.302916ms)
+✔ USD stays empty without rates and TON remains available (0.124583ms)
+✔ primary succeeds without a fallback; concurrent calls share a request (1.625034ms)
+✔ temporary primary failure is retried (2.897618ms)
+✔ two primary failures use the API raw response without credentials (2.022499ms)
+✔ network failures preserve the snapshot and allow a later recovery (0.934226ms)
+✔ timeouts abort requests including slow response bodies (16.484759ms)
+✔ older, incomplete and malformed data never replace a good snapshot (7.773248ms)
+✔ older primary responses still try the fresher fallback (1.98938ms)
+ℹ tests 15
+ℹ suites 0
+ℹ pass 15
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 150.107096
